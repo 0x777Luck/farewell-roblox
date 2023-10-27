@@ -1,3 +1,4 @@
+-- dont get it twisted Hype! coded this shit.
 local http_service = game:GetService("HttpService");
 local main_actor;
 
